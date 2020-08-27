@@ -83,9 +83,6 @@
                 <div class="title m-b-md">
                     Jesús Alcalá Luna
                 </div>
-                <div class="m-b-md">
-                    el marido de Valentina Quirarte
-                </div>
             </div>
         </div>
     </body>
