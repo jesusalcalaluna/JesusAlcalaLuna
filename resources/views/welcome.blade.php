@@ -84,7 +84,7 @@
                     Jesús Alcalá Luna
                 </div>
                 <div class="m-b-md">
-                    En produccion
+                    En producción
                 </div>
             </div>
         </div>
